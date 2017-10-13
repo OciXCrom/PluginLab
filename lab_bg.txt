@@ -1,0 +1,332 @@
+[center][url=http://amxx-bg.info/memberlist.php?mode=viewprofile&u=55][img]http://forum.iplay.bg/download/file.php?avatar=1622_1468778652.png[/img][/url][/center]
+В тази тема ще намерите всички мои плъгини, както и такива редактирани от мен, подредени по азбучен ред. Споделянето на плъгините по други сайтове/форуми е позволено само и едиствено ако предоставите линк към оригиналната тема и името на автора (аз).
+[hr][/hr]
+[b][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_private.png[/img] [color=#8000FF]Частен плъгин, изискващ покупка.[/color]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_unique.png[/img] [color=#008040]Напълно моя изработка, код писан от нулата, лично мои идеи.[/color]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [color=#0080FF]Преработка (подобрена версия) на вече съществуващ плъгин или идеи взети от друг плъгин, напълно пренаписан код.[/color]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_reapi.png[/img] [color=#D4CE22]Плъгин работещ само с ReAPI.[/color]
+[img]http://i.imgur.com/n5qvChF.png[/img] [color=#FF0000]Непълна редакция на чужд плъгин, леки промени по кода на оригиналния плъгин.[/color]
+
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/alliedmods_link.png[/img] [color=#FF00BF]Линк към плъгина в alliedmods.net.[/color]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/alliedmods_approved.png[/img] [color=#408040]Плъгинът е одобрен в alliedmods.net[/color].
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img] [color=#0080FF]Сървъри използващи този плъгин.[/color]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_reapi.png[/img] [color=#FF8080]Директен линк за сваляне на ReHLDS версията.[/color]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img] Директен линк за сваляне на обикновената версия.[/b]
+
+[hr][/hr]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=21&t=46][b][color=#0080FF]Admin Chat[/color][/b][/url] • Нова, подобрена версия на обикновения плъгин за администраторски чат команди. Плъгинът е напълно пренаписан и добавя допълнителни команди за различно писане, както и по-лесни начини за използването на старите и новите. Плъгинът замества adminchat.amxx, препоръчително е да го ползвате вместо оригиналния.
+
+[center][url=https://forums.alliedmods.net/showthread.php?p=272418][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/alliedmods_link.png[/img][/url] [url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=crxadminchat&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/AdminChat/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/AdminChat.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=21&t=1747][b][color=#0080FF]Admin Groups[/color][/b][/url] • Добавя меню, чрез което можете да видите всички администратори, ВИП потребители и прочие (по ваше подразбиране). Менюто се отваря с командите настроени в .ini файла, а те по подразбиране са (в чата): /admins, /admin, /vips, /vip, /users.
+
+[center][url=https://forums.alliedmods.net/showthread.php?p=2516818][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/alliedmods_link.png[/img][/url] [url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=CRXAdminGroups&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/AdminGroups/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/AdminGroups.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=21&t=47][b][color=#0080FF]Advanced Mute[/color][/b][/url] • Чрез този плъгин играчите може да скрият чата и да заглушат микрофона на определени играчи. По подразбиране играчите с флаг "a" имат имунитет и не могат да бъдат заглушвани.
+
+[center][url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=advancedmute&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/Advanced-Mute/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/Advanced-Mute.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=https://amxx-bg.info/viewtopic.php?f=21&t=1355][b][color=#0080FF]Auto AWP[/color][/b][/url] • Плъгинът е предназначен за AWP сървъри. При прераждане автоматично премахва всички оръжия и ви дава AWP и нож.
+
+[center][url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=CRXAutoAWP&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/Auto-AWP/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/Auto-AWP.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_unique.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=21&t=48][b][color=#008040]Automatic Command Executor[/color][/b][/url] • Този плъгин ви позволява да добавяте команди в .ini файл, като същите ще бъдат използвани върху избрания от вас играч, когато той влезне в сървъра. Плъгинът е полезен при организиране на турнири, в които играчите получават определени точки от някой плъгин, примерно deathrun points. Някои плъгини не ползват отделни файлове и въпросните точки трябва да се добавят от страна на администратор, и то когато играчът е в сървъра. Вместо да чакате играчът да влезне в сървъра и да има администратор на линия, просто добавете нужната информация в .ini файла. Плъгинът може да се използва и като сървърна защита, като направите командата да се повтаря при всяко влизане на играча.
+
+[center][url=https://forums.alliedmods.net/showthread.php?p=267526][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/alliedmods_link.png[/img][/url] [url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=autocommandexec&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/Automatic-Command-Executor/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/Automatic-Command-Executor.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_unique.png[/img] [url=https://www.amxx-bg.info/viewtopic.php?f=21&t=1160][b][color=#008040]AWP Models[/color][/b][/url] • Прост плъгин, който добавя меню от което можете да изберете скин на AWP. Менюто се отваря с командата /awp.
+
+[center][url=https://forums.alliedmods.net/showthread.php?p=293454][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/alliedmods_link.png[/img][/url] [url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=CRXAWPModels&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/AWP-Models/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/AWP-Models.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=http://forum.iplay.bg/viewtopic.php?f=103&t=30139][b][color=#0080FF]Become VIP Plus (+API)[/color][/b][/url] • Преработка на добре познатия плъгин, с който играчите могат да получат безплатни ВИП екстри като направят определен брой убийства. Тази версия съдържа опция убийствата да се взимат чрез ранковата система (/rank), данните да могат да се запазват чрез SteamID, както и да включите опция, с която ще предотвратите загуба на данните при краш на сървъра.
+
+[center][url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=becomevipplus&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/BecomeVIP-Plus/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/BecomeVIP-Plus.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=21&t=1113][b][color=#0080FF]Block Use Sound[/color][/b][/url] • Блокира звука при натискане на копчето "Е". Ако искате да блокирате и звука при натискане на бутони на картата, променете квара nouse_block_click на "1".
+
+[center][url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=CRXBlockUseSound&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/Block-Use-Sound/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/Block-Use-Sound.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=21&p=9234][b][color=#0080FF]Chat Manager [Admin Prefix & Color Chat][/color][/b][/url] • Доста прост плъгин, с който можете да добавите префикси и цветен чат за хората с определен(и) флаг(ове). Имайте предвид, че плъгинът трябва да стои най-отдолу в plugins.ini за да не си пречи с чат команди от други плъгини.
+
+[center][url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=CRXChatManager&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/ChatManager/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/ChatManager.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=21&t=49][b][color=#0080FF]Command Blocker[/color][/b][/url] • С този плъгин можете да забраните достъпа до определени команди или пък да ги направите само за хора с определен флаг.
+
+[center][url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=commandblocker&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/Command-Blocker/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/Command-Blocker.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_unique.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=21&t=1028][b][color=#008040]Command Targeting Plus[/color][/b][/url] • Този плъгин ви позволява да ползвате @ct, @t, @all, @me, @aim и прочие в команди за играчи, като amx_slap, amx_slay, amx_kick, и тн. Имайте предвид, че плъгинът трябва да стои над всички плъгини, които ползват такива команди в plugins.ini.
+
+[center][url=https://forums.alliedmods.net/showthread.php?t=292897][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/alliedmods_approved.png[/img][/url] [url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=CRXCMDTarget&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/Command-Targeting-Plus/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/Command-Targeting-Plus.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_reapi.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=18&t=1780][b][color=#D4CE22]Custom Mapname[/color][/b][/url] • С този плъгин можете да промените името на картата, което се показва в списъка със сървъри.
+
+[center][url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=CRXCustomMapname&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/CustomMapname/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/CustomMapname.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=21&t=50][b][color=#0080FF]Custom Shop[/color][/b][/url] • Този плъгин добавя уникален магазин в играта, който съдържа един куп настройки. Магазинът може да работи и със специална точкова система, която може да бъде активирана чрез конфигурациония файл. Плъгинът съдържа и API, с което бързо и лесно можете да добавяте нови предмети, както и да премахнете някои от обикновените такива. Силно препоръчвам да ползвате този плъгин на мястото на който да е друг подобен.
+
+В този списък можете да намерите най-различни добавки и допълнителни предмети за магазина:
+
+[list][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=https://amxx-bg.info/viewtopic.php?f=21&t=1700][b][color=#0080FF]CSHOP Addon: VIP Discount[/color][/b][/url]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=21&t=973][b][color=#0080FF]CSHOP Extra Item: Bunny Hop[/color][/b][/url]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=21&t=975][b][color=#0080FF]CSHOP Extra Item: Golden AK47[/color][/b][/url]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=https://amxx-bg.info/viewtopic.php?f=21&t=1712][b][color=#0080FF]CSHOP Extra Item: Grenades Pack[/color][/b][/url]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=https://amxx-bg.info/viewtopic.php?f=21&t=1685][b][color=#0080FF]CSHOP Extra Item: Leap (Longjump)[/color][/b][/url]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=21&t=974][b][color=#0080FF]CSHOP Extra Item: No Recoil[/color][/b][/url][/list]
+
+[center][url=https://forums.alliedmods.net/showthread.php?p=284603][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/alliedmods_link.png[/img][/url] [url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=customshop&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/CustomShop/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/CustomShop.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=21&t=51][b][color=#0080FF]Custom VIP Extras[/color][/b][/url] • Този плъгин ви позволява по доста лесен начин да определите допълнителните неща, които получават ВИП потребителите при прераждане, или пък да активиране меню, чрез което сами да избират какви екстри да получат в началото на рунда.
+
+[center][url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=customvipextras&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/Custom-VIP-Extras/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/Custom-VIP-Extras.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_unique.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=21&t=44][b][color=#008040]Death Note[/color][/b][/url] • С този плъгин играчите може да нагласят собствен "поздрав", който да се показва на играчите, които са убили.
+
+[center][url=https://forums.alliedmods.net/showthread.php?t=281429][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/alliedmods_approved.png[/img][/url] [url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=deathnote&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/Death-Note/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/Death-Note.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_unique.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=21&t=43][b][color=#008040]Deathrun: CTSafe buttons[/color][/b][/url] • Този плъгин предотвратява контра-терористите да активират капаните след като минат картата или такива, които може да се активират през тънки стени, бъгове и прочие. По подразбиране контра-терористите не могат да натискат никакви бутони по картата, обаче можете да направите определени такива достъпни, като задържите копчето "R" и натиснете "G" по също време когато сте насочили мерника си към дадено копче.
+
+[center][url=https://forums.alliedmods.net/showthread.php?t=283308][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/alliedmods_approved.png[/img][/url] [url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=ctsafebuttons&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/Deathrun-CTSafe-Buttons/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/Deathrun-CTSafe-Buttons.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_unique.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=32&t=52][b][color=#008040]Deathrun Zones [DRZones][/color][/b][/url] • Този плъгин ви позволява да предотвратите терористът да напусне базата си, като добавите специална зона на определено място или повече такива. Когато терористът стъпне в тази зона, той автоматично бива телепортиран на spawn-а.
+
+[center][url=https://forums.alliedmods.net/showthread.php?p=283583][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/alliedmods_link.png[/img][/url] [url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=drzones&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/Deathrun-Zones-DRZones-/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/Deathrun-Zones-DRZones-.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=21&p=1714][b][color=#0080FF]< D.I.C.E. > Ultimate Roll the Dice < R.T.D. >[/color][/b][/url] • D.I.C.E. е пълна преработка на оригиналния Roll The Dice плъгин. Тъй като старият плъгин е изключително зле направен, опитите за промени на каквото да е по него, тоест добавяне на нови награди или промяна на такива е почти невъзможно. С тази преработка, вече лесно можете да правите редакции. Всяка една награда си има автоматично генерирани настройки и лесно може да бъде изключена на дадена карта или изцяло премахната. Плъгинът включва и многоезична поддръжка, както и API, с което можете да добавяте допълнителни награди към системата
+
+[center][url=https://forums.alliedmods.net/showthread.php?p=289856][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/alliedmods_link.png[/img][/url] [url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=DICE&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/-D.I.C.E.-Ultimate-Roll-the-Dice-R.T.D.-/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/-D.I.C.E.-Ultimate-Roll-the-Dice-R.T.D.-.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_unique.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=32&t=53][b][color=#008040]Equip Remover [awp_india FIX][/color][/b][/url] • Плъгинът премахва оръжията, които играчите получават при прераждане на някои карти, като awp_india, awp_india2 и прочие.
+
+[center][url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=EquipRemover&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/Equip-Remover/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/Equip-Remover.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=https://amxx-bg.info/viewtopic.php?f=21&t=1215][b][color=#0080FF]Fast Knife[/color][/b][/url] • Увеличава скоростта ви когато държите нож.
+
+[center][url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=CRXFastKnife&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/Fast-Knife/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/Fast-Knife.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_unique.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=32&t=54][b][color=#008040]Gametracker: Player Page[/color][/b][/url] • Този плъгин позволява на играчите бързо и лесно да намерят линка към Gametracker страницата им, както и да я посетят директно от сървъра, използвайки MOTD екран.
+
+[center][url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=crxgametracker&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/Gametracker-Player-Page/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/Gametracker-Player-Page.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=21&t=1114][b][color=#0080FF]GoSpec [ /spec; /back ][/color][/b][/url] • Позволява на администраторите да се прехвърлят в отбора на спектаторите чрез командата /spec и да се върнат чрез /back. Можете да се прехвърлите в другия отбор с командата /change.
+
+[center][url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=CRXGoSpec&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/GoSpec/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/GoSpec.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=32&t=55][b][color=#0080FF]IP Shower [Hide Admins|Flag Control|IP Menu|Ultimate][/color][/b][/url] • Този плъгин добавя команди, с които можете да видите ИП адресите на останалите играчи. Плъгинът има опция за автоматично скриване на ИП адресите на администраторите, тъй като в последно време играчите доста се възползват от така наречения "флууд", особено по адрес на администраторите. Опцията за скриване на ИП може да бъде изключена чрез конфигурациония файл, или пък да бъде променен начинът, по който администраторите биват скрити, примерно да бъдат скрити само последните числа, да бъде генериран фалшив ИП адрес, или пък изобщо да не показва администратори в списъка. Добавено е и меню, което в чата ще покаже ИП адреса на определен играч. Също така, направено е при използване на командите да се показва точна дата и час, тъй като при докладване на играчи в някои форуми се изисква и тази информация.
+
+[center][url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=crxipshower&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/-IP-Shower-Hide-Admins-Flag-Control-IP-Menu-/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/-IP-Shower-Hide-Admins-Flag-Control-IP-Menu-.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]http://i.imgur.com/n5qvChF.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=21&t=319][b][color=#FF0000]JailBreak Football[/color][/b][/url] • Добре-познатият плъгин, с който можете да добавите футболна топка и врати във вашият JailBreak сървър. Имайте предвид, че плъгинът може да се ползва във всякакви сървъри.
+
+[center][url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=jailbreakfootball&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/JailBreak-Football/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/JailBreak-Football.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=21&t=45][b][color=#0080FF]JailBreak Reasons[/color][/b][/url] • Напълно пренаписана версия на добре познатия плъгин. Използвайки този плъгин, можете да настроите причините за убийство бързо и лесно, като отворите конфигурациония файл и редактирате редовете в него. Тази версия на плъгина съдържа и допълнителни опции, като едната от тях е да напишете собствена причина за извършеното убийство чрез натискане на копчето "t" (спрей), а другата е да "отречете" убийството с копчето "n" (нощно зрение), с което затворникът автоматично ще бъде съживен ако опцията е включена.
+
+[center][url=https://forums.alliedmods.net/showthread.php?t=281921][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/alliedmods_approved.png[/img][/url] [url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=jailbreakreasons&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/JailBreak-Reasons/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/JailBreak-Reasons.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=21&t=1079][b][color=#0080FF]Knife Models[/color][/b][/url] • Прост плъгин, който добавя меню от което можете да изберете скин на ножа. Менюто се отваря с командата /knife.
+
+[center][url=https://forums.alliedmods.net/showthread.php?p=293632][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/alliedmods_link.png[/img][/url] [url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=CRXKnifeModels&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/Knife-Models/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/Knife-Models.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_unique.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=32&t=56][b][color=#008040]Let it Snow![/color][/b][/url] • Плъгинът автоматично прави така, че в сървъра ви да вали сняг през декември и януари, или в други месеци по ваш избор.
+
+[center][url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=letitsnow&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/Let-it-Snow/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/Let-it-Snow.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_reapi.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=18&t=1762][b][color=#D4CE22]Money Rewards Modifier[/color][/b][/url] • Позволява ви да промените количеството на парите, което получавате, при различни събития. Можете да промените парите при убийство на играч, съотборник, заложник, влизане в играта, отбор, победа/загуба на отбор, залагане/обезвреждане на бомбата и прочие.
+
+[center][url=https://forums.alliedmods.net/showthread.php?p=296847][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/alliedmods_link.png[/img][/url] [url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=CRXMoneyModifier&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/MoneyModifier/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/MoneyModifier.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=32&t=57][b][color=#0080FF]MOTD Commands[/color][/b][/url] • Чрез този плъгин бързо и лесно можете да добавяте чат команди, чрез които играчите ще могат да отворят даден MOTD прозорец, където можете да добавите правилата на сървъра, информация за същия или пък да отворите даден уебсайт.
+
+[center][url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=MOTDCommands&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/MOTD-Commands/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/MOTD-Commands.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=21&t=2402][b][color=#0080FF]No Name Change[/color][/b][/url] • Забранява промяната на ника по време на игра. Може да се позволи само за хора с определен флаг чрез квара nnc_admin_flag "флагът тук".
+
+[center][url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=crxnonamechange&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/NoNameChange/archive/reapi.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_reapi.png[/img][/url] [url=https://github.com/OciXCrom/NoNameChange/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/NoNameChange.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_unique.png[/img] [url=http://forum.iplay.bg/viewtopic.php?f=103&t=29783][b][color=#008040]Permanent Score[/color][/b][/url] • Този плъгин запазва статистиката ви (убийства/умирания) завинаги, т.е. резултатът ви в scoreboard-а (TAB) ще се запазва след като излезнете от сървъра, след смяна на картата и прочие.
+
+[center][url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=permanentscore&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/Permanent-Score/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/Permanent-Score.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=32&t=58][b][color=#0080FF]Random Health on Round Start[/color][/b][/url] • В началото на всеки рунд един произволен играч получава допълнителна кръв.
+
+[center][url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=randomhp&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/Random-HP-on-Round-Start/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/Random-HP-on-Round-Start.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_private.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=37&t=1489][b][color=#8000FF]Rank System + Admin Prefixes[/color][/b][/url] • Ранк система, която е в пъти по-качествена от безплатните плъгини в нета. Системата се настройва чрез конфигурационния файл, в който се намират всички ранкове и админ префикси, заедно с нужното XP и флагове за същите. Освен тези неща, ще намерите и един куп други настройки свързани с плъгина. Можете да направите играчите да получават ВИП флагове при достигане на определено ниво, да слагате различни настройки за всяка една карта, да променяте звуците и прочие.
+
+[center][url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=CRXRankSystem&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=21&t=1115][b][color=#0080FF]Remove Immunity[/color][/b][/url] • Добавя команди, чрез които администраторите с rcon флаг може временно да премахнат имунитета на останалите администратори. Премахването става с командата amx_remove_imm, а връщането с amx_restore_imm. Премахнатият чрез команда имунитет автоматично се връща след излизане от сървъра.
+
+[center][url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=CRXRemoveImmunity&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/Remove-Immunity/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/Remove-Immunity.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=21&t=735][b][color=#0080FF]REMusic [Round End Music | End Round Sounds][/color][/b][/url] • С този плъгин можете да добавяте песни в .ini файл, които ще се пускат в края на всеки рунд. Поддържа .mp3 и .wav файлове.
+
+[center][url=https://forums.alliedmods.net/showthread.php?p=294300][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/alliedmods_link.png[/img][/url] [url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=REMusic&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/REMusic/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/REMusic.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=32&t=59][b][color=#0080FF]Resetscore System[/color][/b][/url] • Подобрена версия на добре познатия плъгин, който позволява сами да си модифицирате системата за рестартиране на статистиката (убийства/умирания).
+
+[center][url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=resetscoresystem&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/ResetscoreSystem/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/ResetscoreSystem.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=21&t=1116][b][color=#0080FF]Respawn Balance[/color][/b][/url] • Прост плъгин подходящ за respawn сървъри, който автоматично балансира отборите.
+
+[center][url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=CRXRespawnBalance&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/CRXRespawnBalance/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/CRXRespawnBalance.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=32&t=60][b][color=#0080FF]Save Money[/color][/b][/url] • Запазва парите на играчите до края на картата или завинаги.
+
+[center][url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=savemoney&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/SaveMoney/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/SaveMoney.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=21&t=1119][b][color=#0080FF]Save Stuff [ kills, deaths, money ][/color][/b][/url] • Плъгинът запазва убийствата, умиранията и парите на играчите до края на картата. Запазването става по ИП адрес.
+
+[center][url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=crxsavestuff&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/CRXSaveStuff/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/CRXSaveStuff.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=32&t=61][b][color=#0080FF]Simple Demo Recorder[/color][/b][/url] • Опростен плъгин за автоматично записване на демо с оцветени съобщения.
+
+[center][url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=crxdemorecorder&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/CRXDemoRecorder/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/CRXDemoRecorder.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_unique.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=32&t=62][b][color=#008040]Simple Menu Builder[/color][/b][/url] • С този плъгин можете бързо и лесно да правите прости менюта, които ще изпълнява определени команди в конзолата на играча.
+
+[center][url=https://forums.alliedmods.net/showthread.php?p=284324][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/alliedmods_link.png[/img][/url] [url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=simplemenu&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/SimpleMenu/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/SimpleMenu.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=32&t=63][b][color=#0080FF]Simple Resetscore[/color][/b][/url] • Максимално опростен resetscore плъгин, който го направих специално за изпълняване на простите заявки.
+
+[center][url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=crxsimplers&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/SimpleRS/archive/reapi.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_reapi.png[/img][/url] [url=https://github.com/OciXCrom/CRXSimpleRS/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/SimpleRS.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=21&t=1120][b][color=#0080FF]Simple Spawn Protection[/color][/b][/url] • Забранява на играчите да ви стрелят в първите Х секунди от прераждането ви.
+
+[center][url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=crxspawnprotection&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/CRXSpawnProtection/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/CRXSpawnProtection.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=32&t=64][b][color=#0080FF]Spy Admin [Fixed][/color][/b][/url] • Плъгинът добавя команда, с която администраторите с определен флаг може да скрият своите права (флагове). За разлика от оригиналния плъгин, в който командата е достъпна за всички играчи, независимо дали са администратори, този разполага с cvar, чрез който лесно можете да зададете нужния флаг.
+
+[center][url=https://github.com/OciXCrom/CRXSpyAdmin/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/CRXSpyAdmin.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=32&t=65][b][color=#0080FF]Style C4 Timer[/color][/b][/url] • C4 таймер, който показва времето до експлозия по малко различен начин. Можете да избирате между няколко различни стилове, включвайки и обикновения, т.е. отброяване до 0. Таймерът също така сменя цвета си през определено време, като по подразбиране започва със зелен цвят, на 10 секунди става жълт, а на 5 става червен.
+
+[center][url=https://forums.alliedmods.net/showthread.php?p=278600][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/alliedmods_link.png[/img][/url] [url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=stylec4timer&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/StyleC4Timer/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/StyleC4Timer.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=https://amxx-bg.info/viewtopic.php?f=21&t=1551][b][color=#0080FF]Team Advantage by OciXCrom[/color][/b][/url] • С този плъгин играчите от отбора, който е загубил няколко поредни рунда, получават бонус пари. Количеството на пари в зависимост от броя на загубени рундове се определя чрез .ini файл.
+
+[center][url=https://forums.alliedmods.net/showthread.php?p=295362][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/alliedmods_link.png[/img][/url] [url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=CRXTeamAdvantage&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/CRXTeamAdvantage/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/CRXTeamAdvantage.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_unique.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=32&t=66][b][color=#008040]Team-Fortress 2 Hit Sounds [Full Version][/color][/b][/url] • Уникален плъгин, който добавя звуците от Team-Fortress 2 когато правите щета върху играчи. Плъгинът добавя и специалния "krit sound", когато ударите някого в главата, както и "killstreak sound", когато направите 5 поредни убийства без да умрете. Всеки един играч може да избере различен звук, да изключи определени звуци, както и напълно да ги изключи всички.
+
+[center][url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=tf2hitsounds&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/TF2HitSoundsFull/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/TF2HitSoundsFull.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_unique.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=32&t=67][b][color=#008040]Team-Fortress 2 Hit Sounds [Minimal Version][/color][/b][/url] • Уникален плъгин, който добавя звуците от Team-Fortress 2 когато правите щета върху играчи. Плъгинът добавя и специалния "krit sound", когато ударите някого в главата, както и "killstreak sound", когато направите 5 поредни убийства без да умрете. Всеки един играч може да избере различен звук, да изключи определени звуци, както и напълно да ги изключи всички. За разлика от [url=http://forum.iplay.bg/viewtopic.php?f=103&t=29274]пълната версия[/url], този има значително по-малко звуци и се препоръчва за сървъри, които имат прекалено много файлове за теглене.
+
+[center][url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=tf2hitsounds&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/TF2HitSoundsMinimal/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/TF2HitSoundsMinimal.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=32&t=68][b][color=#0080FF]Ultimate Fire in the Hole [Messages|Grenade Trail|Grenade Glow|Sounds][/color][/b][/url] • Плъгинът ви позволява да промените съобщенията, които се показват при мятане на граната (fire in the hole), да добавите trail-ове с различни цветове, както и различни звуци за всяка една граната или пък изцяло да ги блокирате.
+
+[center][url=https://forums.alliedmods.net/showthread.php?p=282686][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/alliedmods_link.png[/img][/url] [url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=ultimatefith&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/UltimateFITH/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/UltimateFITH.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_private.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=37&t=1489][b][color=#8000FF]Weapons XP Menu[/color][/b][/url] • Плъгинът е подобен на CSDM менюто за избиране оръжия, обаче този е доста по-различен и по-качествен. Оръжията се настройват от конфигурационнен файл, като можете да направите да се отключват на даден левел от ранк системата, да им зададете цена, да им променяте щетата, както и моделите, с което може да се каже, че можете да направите напълно различни оръжия от обикновените, примерно да добавите златен калашник.
+
+[center][url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=CRXWeaponsXPMenu&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=32&t=69][b][color=#0080FF]Win Messages & Sounds[/color][/b][/url] • С този плъгин бързо и лесно можете да замените стандартните съобщения в играта, като "Bomb Planted", "The target has been bombed", "Bomb Defused" и прочие. Също така, можете да замените и звуците при победа на определен отбор, залагане/обезвреждане на бомбата, радио командите и т.н.
+
+[center][url=https://forums.alliedmods.net/showthread.php?p=282218][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/alliedmods_link.png[/img][/url] [url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=winmessages&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/WinMessages/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/WinMessages.svg[/img][/center]
+[center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_unique.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=32&t=70][b][color=#008040]You Are Dead![/color][/b][/url] • Доста прост плъгин, който прави екрана ви черен и изписва съобщение "You are dead!" когато умрете. Разбира се, можете да промените цвета на ефекта, текста, както и времетраенето.
+
+[center][url=https://forums.alliedmods.net/showthread.php?p=2351222][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/alliedmods_link.png[/img][/url] [url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=youaredead&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/YouAreDead/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+
+[img]https://img.shields.io/github/last-commit/OciXCrom/YouAreDead.svg[/img][/center]
