@@ -82,7 +82,7 @@
 [center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
 [img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_reapi.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=18&t=1780][b][color=#D4CE22]Custom Mapname[/color][/b][/url] • С този плъгин можете да промените името на картата, което се показва в списъка със сървъри.
 
-[center][url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=CRXCustomMapname&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/CustomMapname/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+[center][url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=CRXCustomMapname&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/CustomMapname/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_reapi.png[/img][/url]
 
 [img]https://img.shields.io/github/last-commit/OciXCrom/CustomMapname.svg[/img][/center]
 [center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
@@ -91,7 +91,10 @@
 В този списък можете да намерите най-различни добавки и допълнителни предмети за магазина:
 
 [list][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=https://amxx-bg.info/viewtopic.php?f=21&t=1700][b][color=#0080FF]CSHOP Addon: VIP Discount[/color][/b][/url]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=https://github.com/OciXCrom/CSHOPAWPOneBullet/archive/master.zip][b][color=#0080FF]CSHOP Extra Item: AWP (One Bullet)[/color][/b][/url]
 [img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=21&t=973][b][color=#0080FF]CSHOP Extra Item: Bunny Hop[/color][/b][/url]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=https://github.com/OciXCrom/CSHOPDefaultWeapons/archive/master.zip][b][color=#0080FF]CSHOP Extra Item: Default Weapon[/color][/b][/url]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=https://github.com/OciXCrom/CSHOPDeagleOneBullet/archive/master.zip][b][color=#0080FF]CSHOP Extra Item: Deagle (One Bullet)[/color][/b][/url]
 [img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=21&t=975][b][color=#0080FF]CSHOP Extra Item: Golden AK47[/color][/b][/url]
 [img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=https://amxx-bg.info/viewtopic.php?f=21&t=1712][b][color=#0080FF]CSHOP Extra Item: Grenades Pack[/color][/b][/url]
 [img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [url=https://amxx-bg.info/viewtopic.php?f=21&t=1685][b][color=#0080FF]CSHOP Extra Item: Leap (Longjump)[/color][/b][/url]
@@ -187,7 +190,7 @@
 [center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
 [img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_reapi.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=18&t=1762][b][color=#D4CE22]Money Rewards Modifier[/color][/b][/url] • Позволява ви да промените количеството на парите, което получавате, при различни събития. Можете да промените парите при убийство на играч, съотборник, заложник, влизане в играта, отбор, победа/загуба на отбор, залагане/обезвреждане на бомбата и прочие.
 
-[center][url=https://forums.alliedmods.net/showthread.php?p=296847][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/alliedmods_link.png[/img][/url] [url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=CRXMoneyModifier&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/MoneyModifier/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
+[center][url=https://forums.alliedmods.net/showthread.php?p=296847][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/alliedmods_link.png[/img][/url] [url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=CRXMoneyModifier&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/MoneyModifier/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_reapi.png[/img][/url]
 
 [img]https://img.shields.io/github/last-commit/OciXCrom/MoneyModifier.svg[/img][/center]
 [center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
