@@ -5,7 +5,7 @@
 [img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_unique.png[/img] [color=#008040]Напълно моя изработка, код писан от нулата, лично мои идеи.[/color]
 [img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_remake.png[/img] [color=#0080FF]Преработка (подобрена версия) на вече съществуващ плъгин или идеи взети от друг плъгин, напълно пренаписан код.[/color]
 [img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_reapi.png[/img] [color=#D4CE22]Плъгин работещ само с ReAPI.[/color]
-[img]http://i.imgur.com/n5qvChF.png[/img] [color=#FF0000]Непълна редакция на чужд плъгин, леки промени по кода на оригиналния плъгин.[/color]
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_edit.png[/img] [color=#FF0000]Непълна редакция на чужд плъгин, леки промени по кода на оригиналния плъгин.[/color]
 
 [img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/alliedmods_link.png[/img] [color=#FF00BF]Линк към плъгина в alliedmods.net.[/color]
 [img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/alliedmods_approved.png[/img] [color=#408040]Плъгинът е одобрен в alliedmods.net[/color].
@@ -161,7 +161,7 @@
 
 [img]https://img.shields.io/github/last-commit/OciXCrom/-IP-Shower-Hide-Admins-Flag-Control-IP-Menu-.svg[/img][/center]
 [center][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/separator.png[/img][/center]
-[img]http://i.imgur.com/n5qvChF.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=21&t=319][b][color=#FF0000]JailBreak Football[/color][/b][/url] • Добре-познатият плъгин, с който можете да добавите футболна топка и врати във вашият JailBreak сървър. Имайте предвид, че плъгинът може да се ползва във всякакви сървъри.
+[img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/ball_edit.png[/img] [url=http://amxx-bg.info/viewtopic.php?f=21&t=319][b][color=#FF0000]JailBreak Football[/color][/b][/url] • Добре-познатият плъгин, с който можете да добавите футболна топка и врати във вашият JailBreak сървър. Имайте предвид, че плъгинът може да се ползва във всякакви сървъри.
 
 [center][url=http://www.gametracker.com/search/?search_by=server_variable&search_by2=jailbreakfootball&query=&loc=_all&sort=&order=&searchipp=50#search][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/servers_using_this.png[/img][/url] [url=https://github.com/OciXCrom/JailBreak-Football/archive/master.zip][img]https://raw.githubusercontent.com/OciXCrom/PluginLab/master/images/icons/download_default.png[/img][/url]
 
